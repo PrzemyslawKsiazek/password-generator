@@ -45,4 +45,4 @@ new_password = password_generation(get_password_length())
 
 print(f'Here is your password: {random_password}')
 print('I recommend you to write it down somewhere because it will be difficult to remember it.')
-print('Thank you for using the programs')
+print('Thank you for using the program')
